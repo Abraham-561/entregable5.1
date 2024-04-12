@@ -1,0 +1,118 @@
+.poke__img1 {
+    width: 100%;
+    height: 100px;
+    
+}
+.poke__container{
+    width: 1116px;
+height: 1272px;
+top: 320px;
+left: 162px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.poke__container-img {
+    display: flex;
+    justify-content: center;
+  }
+
+.poke__img-pokemon{
+    
+    width: 341px;
+    height: 314px;
+    top: 195px;
+    left: 550px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.poke__name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5px;
+  }
+  
+  .poke__order {
+    font-size: 1.3em;
+    color: #416460;
+    margin-bottom: 0;
+  }
+  
+  .poke__name1 {
+    font-size: 1.5em;
+    color: #416460;
+    margin-top: 0;
+    text-shadow: 2px 2px #ccc;
+  }
+
+
+  .container__alt-peso {
+   display: flex;
+   justify-content: center;
+
+  }
+  
+  .poke__info1, .poke__info2 {
+   display: flex;
+    flex-direction: column;
+    margin: 0 1em;
+   
+    
+  }
+  
+  .poke__info-peso-altura {
+    font-size: 1em;
+    color: #666;
+   
+  }
+  
+  .poke__span {
+    font-size: 1em;
+    color: #333;
+    font-weight: bold;
+  }
+
+  .poke__container-type-habil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+  }
+  
+  .poke__bloc-type, .poke__bloc-habil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    margin: 0 1em; /* add margin between the two div elements */
+  }
+  
+  .poke__title {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 0.5em;
+  }
+  
+  .poke__span-type, .poke__span-habil {
+    font-size: 1em;
+    color: #333;
+    font-weight: bold;
+    padding: 0.2em 0.5em;
+    border-radius: 0.2em;
+    margin-bottom: 0.5em;
+  }
+  
+  .poke__span-type {
+    background-color: #9de093;
+  }
+  
+  .poke__span-habil {
+    background-color: #f0b64a;
+  }

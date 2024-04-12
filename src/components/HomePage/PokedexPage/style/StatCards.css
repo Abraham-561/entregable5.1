@@ -1,0 +1,20 @@
+.stat__container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  padding: 1em;
+
+  .stat__cont-name {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .stat__const-progress {
+    width: 100%;
+
+    .stat__progress {
+        width: 100%;
+    }
+  }
+}

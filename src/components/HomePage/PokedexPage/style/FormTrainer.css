@@ -1,0 +1,23 @@
+.form__contenedor {
+    display: flex;
+  justify-content: center;
+
+}
+
+.form__input {
+    border: solid;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+    margin-right: 1rem;
+}
+
+.form__btn {
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    color: #ffffff;
+    background-color: #ff0033;
+    cursor: pointer;
+}
